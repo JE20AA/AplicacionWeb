@@ -1,0 +1,8 @@
+C:\Users\VzWhiteZ\OneDrive - ULEAM\JOBSVZ\FigurasHerencia\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\VzWhiteZ\OneDrive - ULEAM\JOBSVZ\FigurasHerencia\Figuras\Figuras\obj\Debug\Figuras.csproj.SuggestedBindingRedirects.cache
+C:\Users\VzWhiteZ\OneDrive - ULEAM\JOBSVZ\FigurasHerencia\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\VzWhiteZ\OneDrive - ULEAM\JOBSVZ\FigurasHerencia\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\VzWhiteZ\OneDrive - ULEAM\JOBSVZ\FigurasHerencia\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\VzWhiteZ\OneDrive - ULEAM\JOBSVZ\FigurasHerencia\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\VzWhiteZ\OneDrive - ULEAM\JOBSVZ\FigurasHerencia\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\VzWhiteZ\OneDrive - ULEAM\JOBSVZ\FigurasHerencia\Figuras\Figuras\obj\Debug\Figuras.pdb
